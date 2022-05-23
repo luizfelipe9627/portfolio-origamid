@@ -2,7 +2,7 @@
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/portfolio2/blob/master/assets/video/portfolio2.gif" alt="Portfólio">
+<img src="https://github.com/luizfelipe9627/portfolio2/blob/main/assets/video/portfolio2.gif" alt="Portfólio">
 
 ## 📄 Descrição
 
