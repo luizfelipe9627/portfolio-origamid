@@ -1,6 +1,6 @@
-@import url(https://github.com/luizfelipe9627/portfolio2/assets/css/global.css);
-@import url(https://github.com/luizfelipe9627/portfolio2/assets/css/header.css);
-@import url(https://github.com/luizfelipe9627/portfolio2/assets/css/introducao.css);
-@import url(https://github.com/luizfelipe9627/portfolio2/assets/css/experiencia.css);
-@import url(https://github.com/luizfelipe9627/portfolio2/assets/css/formacao.css);
-@import url(https://github.com/luizfelipe9627/portfolio2/assets/css/footer.css);
+@import url(./global.css);
+@import url(./header.css);
+@import url(./introducao.css);
+@import url(./experiencia.css);
+@import url(./formacao.css);
+@import url(./footer.css);

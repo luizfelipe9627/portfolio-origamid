@@ -15,7 +15,7 @@
 
 .formacao-container::after {
   display: block;
-  background: url(/assets/image/detalhe.svg) no-repeat center center;
+  background: url(../image/detalhe.svg) no-repeat center center;
   content: "";
   position: absolute;
   width: 130px;
@@ -26,7 +26,7 @@
 
 .formacao .subtitulo {
   color: #000000; 
-  max-width: 3ch;
+  max-width: 2.5ch;
 }
 
 .formacao-texto {
@@ -118,11 +118,11 @@
 }
 
 .cursos h3::before {
-  background: url(/assets/image/cursos.svg) no-repeat center center;
+  background: url(..image/cursos.svg) no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url(/assets/image/idiomas.svg) no-repeat center center;
+  background: url(../image/idiomas.svg) no-repeat center center;
 }
 
 .formacao-extra li {

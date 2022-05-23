@@ -30,7 +30,7 @@
   width: 130px;
   height: 100px;
   position: absolute;
-  background: url(/assets/image/detalhe.svg) no-repeat center center;
+  background: url(../image/detalhe.svg) no-repeat center center;
   top: -20px;
   left: -40px;
   z-index: -1;
@@ -58,9 +58,9 @@
   }
 
   .introducao h1::before {
-    height: 10px;
-    width: 30px;
-    left: 0;
+    height: 7px;
+    width: 150px;
+    left: -40px;
   }
 }
 
