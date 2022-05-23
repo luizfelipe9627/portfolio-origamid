@@ -15,7 +15,7 @@
 
 .formacao-container::after {
   display: block;
-  background: url(https://github.com/luizfelipe9627/portfolio2/assets/image/detalhe.svg) no-repeat center center;
+  background: url(/assets/image/detalhe.svg) no-repeat center center;
   content: "";
   position: absolute;
   width: 130px;
@@ -118,11 +118,11 @@
 }
 
 .cursos h3::before {
-  background: url(https://github.com/luizfelipe9627/portfolio2/assets/image/cursos.svg) no-repeat center center;
+  background: url(/assets/image/cursos.svg) no-repeat center center;
 }
 
 .idiomas h3::before {
-  background: url(https://github.com/luizfelipe9627/portfolio2/assets/image/idiomas.svg) no-repeat center center;
+  background: url(/assets/image/idiomas.svg) no-repeat center center;
 }
 
 .formacao-extra li {

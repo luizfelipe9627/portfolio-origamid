@@ -39,7 +39,7 @@
 .empresa::before {
   content: "";
   display: block;
-  background: url(https://github.com/luizfelipe9627/portfolio2/assets/image/detalhe.svg) no-repeat center center;
+  background: url(/assets/image/detalhe.svg) no-repeat center center;
   position: absolute;
   width: 4px;
   height: 20px;

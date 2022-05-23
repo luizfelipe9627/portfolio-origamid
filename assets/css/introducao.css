@@ -30,7 +30,7 @@
   width: 130px;
   height: 100px;
   position: absolute;
-  background: url(https://github.com/luizfelipe9627/portfolio2/assets/image/detalhe.svg) no-repeat center center;
+  background: url(/assets/image/detalhe.svg) no-repeat center center;
   top: -20px;
   left: -40px;
   z-index: -1;
