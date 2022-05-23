@@ -6,7 +6,7 @@
 
 ## 📄 Descrição
 
-Segundo portfólio criado do zero, usando apenas HTML5 e CSS3. 
+Segundo portfólio criado do zero, usando apenas HTML5 e CSS3.<br> 
 O layout do projeto foi criado no módulo de UI Design para Iniciantes por André Rafael do Origamid.
 
 ### <a href="https://luizfelipe9627.github.io/portfolio2">Acesse o portfólio</a>
