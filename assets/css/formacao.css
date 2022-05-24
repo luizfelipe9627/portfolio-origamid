@@ -118,7 +118,7 @@
 }
 
 .cursos h3::before {
-  background: url(..image/cursos.svg) no-repeat center center;
+  background: url(../image/cursos.svg) no-repeat center center;
 }
 
 .idiomas h3::before {
