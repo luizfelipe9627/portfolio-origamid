@@ -3,13 +3,13 @@
 }
 
 .footer-container {
-  max-width: 1200px;
-  padding: 120px 20px 60px 20px;
+  max-width: 75rem;
+  padding: 7.5rem 1.25rem 3.75rem 1.25rem;
   margin:  0 auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
   align-items: center;
-  gap: 100px;
+  gap: 6.25rem;
 }
 
 .footer-texto {
@@ -23,7 +23,7 @@
   font-size: 2.5rem;
   line-height: 1.1;
   color: #fff;
-  margin-bottom: 30px;
+  margin-bottom: 1.875rem;
 }
 
 .footer-contato li a {
@@ -43,7 +43,7 @@
 @media (max-width: 800px) {
   .footer-container {
     grid-template-columns: 1fr;
-    gap: 40px;
+    gap: 2.5rem;
   }
 
   .footer-contato li {
