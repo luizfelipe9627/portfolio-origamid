@@ -11,7 +11,9 @@ Segundo portfólio criado do zero, usando apenas HTML5 e CSS3.
 ### <a href="https://luizfelipe9627.github.io/portfolio2">Acesse o portfólio</a>
 
 ## 🔍 Layout
-O layout do projeto foi criado no módulo de <a href="https://www.origamid.com/curso/ui-design-para-iniciantes/" target="_blank">UI Design para Iniciantes</a> por André Rafael do Origamid.
+O layout do projeto foi criado no módulo de UI Design para Iniciantes</a> por André Rafael do Origamid.
+
+### <a href="https://www.origamid.com/curso/ui-design-para-iniciantes/">Acesse o módulo do curso</a>
 
 ## 💻 Tecnologias utilizadas
 
