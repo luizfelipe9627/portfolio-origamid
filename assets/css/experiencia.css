@@ -39,7 +39,7 @@
 .empresa::before {
   content: "";
   display: block;
-  background: url(../image/detalhe.svg) no-repeat center center;
+  background: url("../image/detalhe.svg") no-repeat center center;
   position: absolute;
   width: 0.25rem;
   height: 1.25rem;

@@ -30,7 +30,7 @@
   width: 8.125rem;
   height: 6.25rem;
   position: absolute;
-  background: url(../image/detalhe.svg) no-repeat center center;
+  background: url("../image/detalhe.svg") no-repeat center center;
   top: -1.25rem;
   left: -2.5rem;
   z-index: -1;

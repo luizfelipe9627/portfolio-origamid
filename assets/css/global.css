@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: Fira Sans, Arial, sans-serif;
+  font-family: 'Fira Sans', Arial, sans-serif;
   color: #141414;
   margin: 0 auto;
 }
@@ -61,7 +61,6 @@ img {
 
 .botao-voltar img {
   width: 2.5rem;
-  height: 2.5rem;
   border-radius: 0.3125rem;
   background-color: #000;
 }

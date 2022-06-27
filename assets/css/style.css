@@ -1,6 +1,7 @@
-@import url(./global.css);
-@import url(./header.css);
-@import url(./introducao.css);
-@import url(./experiencia.css);
-@import url(./formacao.css);
-@import url(./footer.css);
+@import url("./global.css");
+@import url("../fonts/fonte.css");
+@import url("./header.css");
+@import url("./introducao.css");
+@import url("./experiencia.css");
+@import url("./formacao.css");
+@import url("./footer.css");
