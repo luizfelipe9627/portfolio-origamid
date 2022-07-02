@@ -1,7 +1,7 @@
 .introducao {
   display: grid;
   max-width: 75rem;
-  padding: 3.125rem 1.25rem;
+  padding: 50px 20px;
   margin: 0 auto;
   grid-template-columns: 1fr 2fr;
   align-items: center;
