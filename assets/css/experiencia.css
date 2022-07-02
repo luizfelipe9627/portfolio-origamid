@@ -46,7 +46,8 @@
 .empresa:hover {
   background-color: #000;
   color: #fff;
-  transition: linear 1s;
+  transition: all ease 1.5s;
+  transform: translateY(-10px);
 }
 
 .empresa::before {
@@ -111,6 +112,10 @@
 
   .experiencia-texto {
     font-size: 1.25rem;
+  }
+
+  .empresa {
+    grid-template-columns: none;
   }
 
   .empresa-ano {
