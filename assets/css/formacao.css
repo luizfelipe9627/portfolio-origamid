@@ -50,7 +50,8 @@
 .faculdade:hover {
   background-color: #FFF;
   color: #000;
-  transition: linear 1s;
+  transition: all ease 1.5s;
+  transform: translateY(-10px);
 }
 
 .faculdade {
@@ -149,8 +150,9 @@
 .formacao-extra li:hover {
   color: #000;
   font-weight: bold;
-  transition: linear 0.5s;
+  transition: all ease 1.5s;
   cursor: pointer;
+  transform: translateY(-6px);
 }
 
 .cursos li {
@@ -176,6 +178,10 @@
   .formacao-extra h3::before {
     position: static;
     margin-bottom: 0.625rem;
+  }
+
+  .cursos li a {
+    max-width: 25ch;
   }
 }
 

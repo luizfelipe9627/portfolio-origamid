@@ -3,8 +3,8 @@
   justify-content: space-between;
   max-width: 75rem;
   align-items: center;
-  margin:  0 auto ;
-  margin-top: 15px;
+  margin:  0 auto;
+  margin-top: 0.625rem;
 }
 
 .logo {
@@ -31,6 +31,8 @@
 .header-menu a:hover {
   border-bottom: 0.125rem solid #000;
   font-weight: bold;
+  transition: all ease 1.5s;
+  transform: translateY(-6px);
 }
 
 @media (max-width: 800px) {

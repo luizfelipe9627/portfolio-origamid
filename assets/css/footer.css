@@ -34,6 +34,11 @@
   color: #8F8F8F;
 }
 
+.footer-contato li:hover {
+  transition: all ease 1.5s;
+  transform: translateY(-6px);
+}
+
 .footer-copy {
   grid-column: 1 / -1;
   font-size: 1.125rem;
