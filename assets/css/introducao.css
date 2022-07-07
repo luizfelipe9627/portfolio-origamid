@@ -1,19 +1,18 @@
 .introducao {
   display: grid;
+  justify-items: center;
+  align-items: center;
   max-width: 75rem;
   padding: 50px 20px;
   margin: 0 auto;
   grid-template-columns: 1fr 2fr;
-  align-items: center;
   gap: 6.25rem;
-  align-items: center;
-  justify-content: center;
 }
 
 .introducao img {
   display: block;
-  width: 15.625rem;
-  margin-left: 5vw;
+ 
+  margin-left: 1vw;
   border-radius: 1.25rem 2.5rem;
 }
 
