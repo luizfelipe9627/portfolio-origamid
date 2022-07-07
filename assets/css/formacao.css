@@ -40,15 +40,6 @@
   color: #FFFFFF;
 }
 
-.formacao-texto a {
-  color: #A3A3A3;
-  font-weight: bold;
-}
-
-.formacao-texto a:hover {
-  color: #FFFFFF;
-}
-
 .faculdade-lista {
   display: flex;
   flex-wrap: wrap;
