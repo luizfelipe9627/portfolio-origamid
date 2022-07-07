@@ -1,4 +1,4 @@
-# Portfólio 2
+# Portfólio
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
@@ -8,7 +8,7 @@
 
 Segundo portfólio criado do zero, usando apenas HTML5 e CSS3.
 
-### <a href="https://luizfelipe9627.github.io/portfolio2">Acesse o portfólio</a>
+### <a href="https://luizfelipe9627.netlify.app">Acesse o portfólio</a>
 
 ## 🔍 Layout
 O layout do projeto foi criado no módulo de UI Design para Iniciantes</a> por André Rafael do Origamid.
